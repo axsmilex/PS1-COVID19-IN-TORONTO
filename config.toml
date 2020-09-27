@@ -14,7 +14,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/about/"
 [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/axsmilex/COVID-19"
+    url = "https://github.com/axsmilex/PS1-COVID19-IN-TORONTO"
 
 
 [params]
